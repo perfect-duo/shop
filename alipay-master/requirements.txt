@@ -1,0 +1,4 @@
+pycryptodomex
+mock==2.0.0
+codecov
+tox
